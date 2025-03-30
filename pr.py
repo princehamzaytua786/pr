@@ -1,3 +1,3 @@
 import os
 os.system('git pull')
-import prince
+print('prince tool will come soon')
